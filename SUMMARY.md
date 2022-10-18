@@ -1,16 +1,16 @@
 # Table of contents
 
-## 소개 <a href="#WEMIX.Fi" id="WEMIX.Fi"></a>
+## 소개 <a href="#wemix.fi" id="wemix.fi"></a>
 
 * [WEMIX.Fi](README.md)
   * [지갑 및 네트워크](WEMIX.Fi/introduction/undefined.md)
-  * [WEMIX 토큰](WEMIX.Fi/introduction/wemix.md)
+  * [WEMIX 코인](WEMIX.Fi/introduction/wemix.md)
   * [자주 묻는 질문](WEMIX.Fi/introduction/undefined-1.md)
 * [보안감사](WEMIX.Fi/securityaudits.md)
 * [이용약관](<WEMIX.Fi/Terms of Use.md>)
 * [업데이트](<WEMIX.Fi/Recent Updates.md>)
 
-## 서비스 <a href="#SERVICES" id="SERVICES"></a>
+## 서비스 <a href="#services" id="services"></a>
 
 * [위믹스달러](SERVICES/undefined/README.md)
   * [WEMIX$ 발행](SERVICES/undefined/wemixusd.md)
@@ -30,7 +30,7 @@
   * [이용 수수료](SERVICES/undefined-2/undefined-1.md)
   * [컨트랙트](SERVICES/undefined-2/undefined-2.md)
 
-## 이용가이드 <a href="#GUIDES" id="GUIDES"></a>
+## 이용가이드 <a href="#guides" id="guides"></a>
 
 * [WEMIX.Fi 준비하기](GUIDES/gettingstarted/README.md)
   * [지갑 생성하기](GUIDES/gettingstarted/undefined.md)

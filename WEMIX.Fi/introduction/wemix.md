@@ -1,8 +1,8 @@
-# WEMIX 토큰
+# WEMIX 코인
 
-## WEMIX 토큰
+## WEMIX 코인 마이그레이션
 
-(토크노믹스 설명 추가)
+
 
 ## WEMIX 구매하기
 
