@@ -20,7 +20,7 @@ WEMIX.Fi를 사용하기 위해서는 블록체인 네트워크와 상호작용�
 | 통화 기호      | WEMIX                        |
 | 블록 탐색기 URL | https://microscope.wemix.com |
 
-## 기존 WEMIX PLAY 지갑 사용자라면?
+## 기존 PLAY Wallet 사용자라면?
 
 기존의 플랫폼의 홀더, 이용자는 WEMIX.Fi 론칭 이후 다음과 같은 방법으로 이전의 위믹스 클래식을 새로운 위믹스 코인으로 전환할 수 있습니다.
 
@@ -28,4 +28,4 @@ WEMIX.Fi를 사용하기 위해서는 블록체인 네트워크와 상호작용�
 * 멀티체인 서비스를 이용하는 방법
 * 플레이 브릿지 서비스를 이용하는 방법
 
-각 방법에 대한 절차는 [기존 WEMIX PLAY 지갑 사용자라면?](../../GUIDES/gettingstarted/wemix-play.md) 가이드에서 확인할 수 있습니다.
+각 방법에 대한 절차는 [기존 PLAY Wallet 사용자라면?](../../GUIDES/gettingstarted/wemix-play.md) 가이드에서 확인할 수 있습니다.
