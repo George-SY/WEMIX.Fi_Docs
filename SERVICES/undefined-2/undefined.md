@@ -4,11 +4,6 @@
 
 크로스체인 브릿지는 서로 다른 두 블록체인 네트워크를 연결하는 링크입니다. WEMIX.Fi는 Multichain의 브릿지 서비스를 사용하며, 한 네트워크에서 자산을 잠그고 다른 네트워크에서 동일한 가치의 토큰을 발행하는 '락 앤 민트(Lock and Mint)' 방식을 활용합니다. Multichain 브릿지를 통해 자산을 전송하는 기본적인 과정은 다음과 같습니다:
 
-{% file src="../../.gitbook/assets/Bridge (2).gif" %}
-![](Bridge.gif)
-
-<figure><img src="../../.gitbook/assets/Bridge (2).gif" alt=""><figcaption></figcaption></figure>
-
 {% embed url="https://drive.google.com/file/d/1Fi0DPKhuTOp8NJObgKYOPDOtGgrMSSLR/view?usp=sharing" %}
 
 * 첫 번째로, 사용자의 요청에 의해 자산이 A체인에서 SMPC 네트워크의 분산관리 계정으로 잠깁니다.
