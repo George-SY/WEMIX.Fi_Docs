@@ -6,8 +6,6 @@
 
 <figure><img src="../../.gitbook/assets/Bridge (1) (1).gif" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://drive.google.com/file/d/1Fi0DPKhuTOp8NJObgKYOPDOtGgrMSSLR/view?usp=sharing" %}
-
 * 첫 번째로, 사용자의 요청에 의해 자산이 A체인에서 SMPC 네트워크의 분산 관리 계정으로 잠깁니다.
 * 두 번째로, SMPC 노드가 자산이 잠긴 사실을 확인하여 C체인에 서명된 스마트 컨트랙트를 보냅니다.
 * 마지막으로, C체인에서 동일한 가치의 토큰을 발행합니다.
