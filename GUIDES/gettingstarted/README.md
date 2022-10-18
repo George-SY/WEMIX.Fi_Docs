@@ -1,6 +1,6 @@
 # WEMIX.Fi 준비하기
 
-<figure><img src="../../.gitbook/assets/basic_guide_1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/basic_guide_1.png" alt=""><figcaption></figcaption></figure>
 
 WEMIX.Fi는 위믹스3.0 블록체인 기반 디파이(탈중앙화 금융 거래) 플랫폼입니다. 디파이를 처음 접하는 사용자도 손쉽게 따라할 수 있도록 단계별 가이드가 준비되어 있습니다. 서비스를 이용하는 중에 문제가 발생할 경우 지원센터를 통해 도움을 받을 수 있습니다. 또한, WEMIX.Fi는 개인정보 처리방침 및 이용약관에 대하여 고지합니다. 서비스 이용 전 반드시 확인하기 바라며, 모든 내용을 이해하고 동의한 것으로 인정합니다.
 

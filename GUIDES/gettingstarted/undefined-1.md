@@ -20,7 +20,7 @@
 
 ## WEMIX3.0 지갑 연결하기
 
-<figure><img src="../../.gitbook/assets/wallet_guide_5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wallet_guide_5 (1).png" alt=""><figcaption></figcaption></figure>
 
 * WEMIX.Fi 우측 상단에 '지갑 연결' 버튼을 클릭하여 WEMIX3.0 지갑과 연결합니다.
 

@@ -2,7 +2,7 @@
 
 ## WEMIX.Fi 스테이킹 접속하기
 
-<figure><img src="../../.gitbook/assets/guide_stake_8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/guide_stake_1.png" alt=""><figcaption></figcaption></figure>
 
 * WEMIX.Fi 스테이킹에 접속합니다. 메인 페이지에서 'Stake' 메뉴를 선택하여 스테이킹에 접속합니다.
 

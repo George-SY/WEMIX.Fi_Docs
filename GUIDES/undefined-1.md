@@ -41,7 +41,7 @@ Multichain에 Metamask를 연결하면 자산을 보내는 네트워크는 자�
 
 ### 5. 트랜잭션 승인 및 내역 확인
 
-<figure><img src="../.gitbook/assets/bridge_guide8 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bridge_guide8 (2).png" alt=""><figcaption></figcaption></figure>
 
 사용자가 모든 정보를 입력한 뒤 브릿지를 통해 자산을 전송하기 위해서는 Multichain이 Metamask의 자산에 접근할 권한을 최초 1회 승인해야 합니다.
 

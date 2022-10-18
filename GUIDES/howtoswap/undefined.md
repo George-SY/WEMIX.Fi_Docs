@@ -28,7 +28,7 @@
 
 ## 최소 지급액 및 수수료 확인하기
 
-<figure><img src="../../.gitbook/assets/guide_swap_6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/guide_swap_6 (1).png" alt=""><figcaption></figcaption></figure>
 
 * 최소 지급액과 수수료를 확인합니다. 최소 지급액은 스왑 수수료와 최대 거래 허용치가 적용된 오차 수량을 제외하고 사용자의 지갑에 전송되는 최소 코인 수량을 의미합니다. 최소 지급액은 거래 허용치(Slippage Rate)에 따라 달라질 수 있으며, 스왑 수수료는 지불 코인의 0.25%가 부과됩니다.
 
@@ -54,6 +54,6 @@
 
 ## 거래 내역 확인하기
 
-<figure><img src="../../.gitbook/assets/guide_swap_11 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/guide_swap_11.png" alt=""><figcaption></figcaption></figure>
 
 * 'Dashboard' 메뉴를 통해 거래 내역을 확인합니다. 스왑이 완료되고 정상적으로 실행된 트랜잭션은 거래 내역에 반영됩니다. 거래 내역을 클릭하면 위믹스 익스플로러를 통해 세부내용을 확인할 수 있습니다.
