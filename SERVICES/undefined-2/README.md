@@ -41,3 +41,6 @@ WEMIX.Fi의 브릿지 서비스는 Multichain에서 제공하며, 독립적으�
 {% hint style="info" %}
 위믹스 메인넷과 **브릿지를 통해 연결이 가능한 메인넷 목록**과 **브릿지를 통해 이동 가능한 토큰 목록**은 [Bridge 컨트랙트](broken-reference)에서 확인할 수 있습니다.
 {% endhint %}
+
+
+![](Bridge.gif)
