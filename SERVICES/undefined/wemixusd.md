@@ -1,6 +1,6 @@
 # WEMIX$ 발행
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wemix_dollar_1.png" alt=""><figcaption></figcaption></figure>
 
 ## WEMIX$의 안정성과 투명성
 
