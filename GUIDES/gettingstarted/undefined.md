@@ -8,7 +8,7 @@
 
 ### 1. WEMIX3.0 지갑 다운로드 및 설치
 
-<figure><img src="../../.gitbook/assets/create_wallet_1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/create_wallet_1.png" alt=""><figcaption></figcaption></figure>
 
 * WEMIX3.0 지갑은 Google Play 혹은 App Store를 통해 다운로드 할 수 있습니다.
 * WEMIX3.0 지갑 실행 시 기존 계정을 생성하거나 복구할 수 있습니다. '새 지갑 생성' 버튼 선택 시 새로운 지갑 계정 생성이 가능하며, '기존 지갑 복구하기' 버튼 선택 시 기존에 생성했던 지갑 계정을 복구할 수 있습니다.
@@ -22,7 +22,7 @@
 
 ### 3. 지갑 비밀문구 생성 및 확인
 
-<figure><img src="../../.gitbook/assets/create_wallet_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/create_wallet_3 (1).png" alt=""><figcaption></figcaption></figure>
 
 * 비밀번호가 정상적으로 등록되면 생성된 지갑의 비밀 문구를 확인할 수 있습니다. 비밀 문구는 어떤 상황에서도 타인에게 공유되지 않도록 주의해야 하며, 비밀 문구 확인을 위해 순서에 맞는 단어를 선택하지 못할 경우, 지갑 생성을 완료할 수 없습니다. 비밀 문구 확인이 완료되면 새 지갑이 정상적으로 생성됩니다.
 
@@ -42,28 +42,27 @@
 
 <figure><img src="../../.gitbook/assets/wallet_guide_10.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/wallet_guide_12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wallet_guide_11.png" alt=""><figcaption></figcaption></figure>
 
 * 메타마스크 실행 시 기존 계정을 생성하거나 복구할 수 있습니다. '지갑 생성' 버튼 선택 시 새로운 지갑 계정 생성이 가능하며, '기존 가져오기' 버튼 선택 시 기존에 생성했던 지갑 계정을 복구할 수 있습니다.
 
 ### 2. 비밀번호 만들기
 
-<figure><img src="../../.gitbook/assets/wallet_guide_13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wallet_guide_12.png" alt=""><figcaption></figcaption></figure>
 
 * 메타마스크에 접속하기 위한 비밀번호를 설정합니다. 새 지갑 생성 시, 이용 약관 및 개인정보 처리방침에 동의하지 않는 경우에 지갑을 생성할 수 없습니다.
 
 ### 3. 비밀문구 생성 및 확인
 
+<figure><img src="../../.gitbook/assets/wallet_guide_13.png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/wallet_guide_14.png" alt=""><figcaption></figcaption></figure>
 
 * 비밀번호가 정상적으로 등록되면 생성된 지갑의 비밀 문구를 확인할 수 있습니다. 비밀 문구는 어떤 상황에서도 타인에게 공유되지 않도록 주의해야 합니다. 비밀 문구를 잃어버릴 경우, 지갑을 복구할 수 없습니다.
-
-<figure><img src="../../.gitbook/assets/wallet_guide_15.png" alt=""><figcaption></figcaption></figure>
-
 * 비밀 문구 확인을 위해 순서에 맞는 단어를 선택하지 못할 경우, 지갑 생성을 완료할 수 없습니다. 비밀 문구 확인이 완료되면 새 지갑이 정상적으로 생성됩니다.
 
 ### 4. 메타마스크 생성 완료
 
-<figure><img src="../../.gitbook/assets/wallet_guide_16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wallet_guide_15.png" alt=""><figcaption></figcaption></figure>
 
 * 모든 단계를 마치면 정상적으로 생성한 지갑을 사용할 수 있습니다.
