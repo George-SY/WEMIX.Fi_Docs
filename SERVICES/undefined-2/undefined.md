@@ -21,4 +21,4 @@ SMPC(Secure Multi-Party Computation) 네트워크는 다수의 SMPC 노드로 �
 
 <figure><img src="../../.gitbook/assets/04_SMPC.png" alt=""><figcaption></figcaption></figure>
 
-SMPC 네트워크의 노드들은 서로 다른 블록체인에 존재하며 각각 프라이빗 키의 일부를 소유하여 트랜잭션이 독단적으로 실행되는 것을 방지합니다. SMPC 네트워크의 보안성은 [Multichain Security Model](https://docs.multichain.org/getting-started/security/security-model)에서 확인할 수 있습니다.
+SMPC 네트워크의 노드들은 서로 다른 블록체인에 존재하며 각각 프라이빗 키의 일부를 소유하여 트랜잭션이 독단적으로 실행되는 것을 방지합니다. SMPC 네트워크의 보안성은 [Multichain: Security Model](https://docs.multichain.org/getting-started/security/security-model)에서 확인할 수 있습니다.
