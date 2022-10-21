@@ -24,7 +24,7 @@ WEMIX.Fi의 브릿지 서비스는 Multichain에서 제공하며, 독립적으�
 
 ## WEMIX.Fi와 브릿지를 지원하는 지갑
 
-현재 WEMIX.Fi는 Multichain의 브릿지 서비스를 사용하고 있으며, Multichain에서 지원하는 지갑은 WEMIX3.0 지갑과 메타마스크 입니다. WEMIX3.0 지갑 생성 방법은 [이용가이드: 지갑 생성하기](../../guides/getting-started/how-to-create-wallet.md)에서 확인할 수 있습니다.
+현재 WEMIX.Fi는 Multichain의 브릿지 서비스를 사용하고 있으며, Multichain에서 지원하는 지갑은 WEMIX3.0 지갑과 메타마스크 입니다. WEMIX3.0 지갑 생성 방법은 [이용가이드: 지갑 생성하기](../../Guides/getting-started/how-to-create-wallet.md)에서 확인할 수 있습니다.
 
 ## 브릿지 사용 예시
 
