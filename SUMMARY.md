@@ -47,8 +47,8 @@
   * [풀 출금하기](GUIDES/howtopool/undefined-1.md)
   * [풀 관리하기](GUIDES/howtopool/undefined-2.md)
 * [대출 이용가이드](GUIDES/undefined.md)
-* [브릿지 이용가이드](guides/undefined-1/README.md)
-  * [Multichain 이용하기](guides/undefined-1/multichain.md)
+* [브릿지 이용가이드](guides/bridge/README.md)
+  * [Multichain 이용하기](guides/bridge/how-to-use-multichain.md)
 
 ## 커뮤니티 & 패밀리사이트
 
