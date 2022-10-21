@@ -50,9 +50,6 @@
 * [대출 이용가이드](GUIDES/undefined.md)
 * [브릿지 이용가이드](guides/undefined-1/README.md)
   * [Multichain 이용하기](guides/undefined-1/multichain.md)
-* [모바일 이용가이드](GUIDES/undefined-2/README.md)
-  * [Android 가이드](GUIDES/undefined-2/android.md)
-  * [iOS 가이드](GUIDES/undefined-2/ios.md)
 
 ## 커뮤니티 & 패밀리사이트
 
