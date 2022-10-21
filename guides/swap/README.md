@@ -10,8 +10,8 @@ WEMIX.Fi의 스왑은 사용자가 보유한 가상자산을 블록체인 메인
 
 <summary>1. 지갑 연결하기</summary>
 
-* [undefined.md](../gettingstarted/undefined.md "mention")
-* [undefined-1.md](../gettingstarted/undefined-1.md "mention")
+* [how-to-create-wallet.md](../getting-started/how-to-create-wallet.md "mention")
+* [how-to-connect-wallet.md](../getting-started/how-to-connect-wallet.md "mention")
 
 </details>
 

@@ -14,8 +14,8 @@ WEMIX.Fi의 리퀴드 스테이킹 프로그은 2022년 4분기에 공개될 예
 
 <summary>1. 지갑 연결하기</summary>
 
-* [undefined.md](../gettingstarted/undefined.md "mention")
-* [undefined-1.md](../gettingstarted/undefined-1.md "mention")
+* [how-to-create-wallet.md](../getting-started/how-to-create-wallet.md "mention")
+* [how-to-connect-wallet.md](../getting-started/how-to-connect-wallet.md "mention")
 
 </details>
 

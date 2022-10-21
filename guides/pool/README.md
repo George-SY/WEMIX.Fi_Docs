@@ -10,8 +10,8 @@ WEMIX.Fi의 풀은 사용자가 유동성을 직접 공급하는 대가로 수�
 
 <summary>1. 지갑 연결하기</summary>
 
-* [undefined.md](../gettingstarted/undefined.md "mention")
-* [undefined-1.md](../gettingstarted/undefined-1.md "mention")
+* [how-to-create-wallet.md](../getting-started/how-to-create-wallet.md "mention")
+* [how-to-connect-wallet.md](../getting-started/how-to-connect-wallet.md "mention")
 
 </details>
 
