@@ -36,7 +36,6 @@
   * [지갑 생성하기](GUIDES/gettingstarted/undefined.md)
   * [지갑 연결하기](GUIDES/gettingstarted/undefined-1.md)
   * [토큰 추가하기](GUIDES/gettingstarted/undefined-2.md)
-  * [기존 WEMIX PLAY 지갑 사용자라면?](GUIDES/gettingstarted/wemix-play.md)
 * [스왑 이용가이드](GUIDES/howtoswap/README.md)
   * [스왑하기](GUIDES/howtoswap/undefined.md)
 * [스테이킹 이용가이드](GUIDES/howtostake/README.md)
