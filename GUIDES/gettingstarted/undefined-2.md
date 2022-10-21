@@ -32,4 +32,4 @@ WEMIX3.0 지갑 사용자는 토큰을 추가하지 않아도 WEMIX, WEMIX$, USD
 | USD Coin     | USDC   | 18     | 0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D |
 | Klaytn       | KLAY   | 18     | 0x461d52769884ca6235B685EF2040F47d30C94EB5 |
 | Wemix        | WEMIX  | 18     | 0x7D72b22a74A216Af4a002a1095C8C707d6eC1C5f |
-| Wemix Dollar | WEMIX$ | 18     | 0xC7A1a3A057A4618f14d35C260ab9a10f2A61bf8b |
+| Wemix Dollar | WEMIX$ | 18     | 0x53c0cAfFEB6D4f5A6a65aAE0a11a99d82DA852Ed |
