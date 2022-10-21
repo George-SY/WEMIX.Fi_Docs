@@ -12,9 +12,9 @@
 
 ## 서비스 <a href="#Services" id="Services"></a>
 
-* [위믹스달러](Services/wemix$/README.md)
-  * [WEMIX$ 발행](Services/wemix$/about-wemixusd.md)
-  * [WEMIX$ 안정화 프로토콜](Services/wemix$/wemix$-stabilizer.md)
+* [위믹스달러](Services/wemixusd/README.md)
+  * [WEMIX$ 발행](Services/wemixusd/about-wemixusd.md)
+  * [WEMIX$ 안정화 프로토콜](Services/wemixusd/wemixusd-stabilizer.md)
 * [스왑](SERVICES/Swap/README.md)
   * [동작원리](services/swap/how-it-works.md)
   * [이용 수수료](services/swap/fees.md)
