@@ -13,7 +13,7 @@ WEMIX 토큰은 업비트와 빗썸을 포함한 15개 가상자산 거래소를
 * 토큰 기호: WEMIX
 * 토큰 십진수: 18
 
-사용자의 지갑에 WEMIX를 포함한 더 많은 토큰을 추가하는 방법은 [이용가이드: 토큰 추가하기](../../Guides/getting-started/how-to-add-tokens.md)에서 자세하게 확인할 수 있습니다.
+사용자의 지갑에 WEMIX를 포함한 더 많은 토큰을 추가하는 방법은 [이용가이드: 토큰 추가하기](../../guides/getting-started/how-to-add-tokens.md)에서 자세하게 확인할 수 있습니다.
 
 ## 참고자료
 

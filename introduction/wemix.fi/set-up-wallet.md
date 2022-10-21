@@ -4,8 +4,8 @@
 
 WEMIX.Fi를 사용하기 위해서는 블록체인 네트워크와 상호작용하고 정보를 저장할 수 있는 암호화된 지갑이 필요합니다. WEMIX.Fi는 현재 WEMIX3.0 지갑과 메타마스크 두 종류의 지갑을 지원하며, 다음 안내에 따라 지갑을 생성하고 WEMIX.Fi와 연결할 수 있습니다.
 
-{% content-ref url="../../Guides/getting-started/how-to-create-wallet.md" %}
-[how-to-create-wallet.md](../../Guides/getting-started/how-to-create-wallet.md)
+{% content-ref url="../../guides/getting-started/how-to-create-wallet.md" %}
+[how-to-create-wallet.md](../../guides/getting-started/how-to-create-wallet.md)
 {% endcontent-ref %}
 
 ## 위믹스3.0 네트워크 추가하기
