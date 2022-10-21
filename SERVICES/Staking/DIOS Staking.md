@@ -16,15 +16,11 @@
 
 예를 들어, WEMIX$의 가치가 $1.5으로 증가한 경우를 가정합니다. DIOS에서 발행된 1 WEMIX$는 1.5 USDC로 교환되며, Treasury와 스테이킹 프로그램에 각각 1 USDC와 0.5 USDC가 분배됩니다.
 
-<img src="../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
-
 ### TOP(Treasury Out Protocol)
 
 생태계가 축소함에 따라 WEMIX$의 가치가 USDC보다 감소할 경우, **DIOS는 가치 안정화를 위해 Treasury에서 USDC를 출금**합니다. 이때, 1 USDC는 1개 이상의 WEMIX$와 교환되며, 교환된 **WEMIX$의 일부는 소각되고 나머지는 스테이킹 프로그램에 분배**됩니다.
 
 예를 들어, WEMIX$의 가치가 $0.5으로 감소한 경우를 가정합니다. Treasury에서 출금된 1 USDC는 2 WEMIX$로 교환되며, 1 WEMIX$는 소각하고 1 WEMIX$는 프로그램에 분배됩니다.
-
-<img src="../../.gitbook/assets/file.drawing (8).svg" alt="" class="gitbook-drawing">
 
 ## 포인트 정책
 
