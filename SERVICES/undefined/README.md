@@ -4,7 +4,7 @@ description: WEMIX3.0의 공식 스테이블 코인
 
 # 위믹스달러
 
-<figure><img src="../../.gitbook/assets/WMD_01_WEMIX$_coin.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/WMD_01_WEMIX$_coin (1).gif" alt=""><figcaption></figcaption></figure>
 
 ## **WEMIX$란?**
 
