@@ -15,5 +15,5 @@ Treasury : Treasury는 WEMIX$를 발행하기 위해 사용되는 준비금인 U
 {% endhint %}
 
 {% hint style="info" %}
-AMA(Authorized Mint Access) : AMA는 USDC를 예치하고 자동적으로 동일한 의 WEMIX$를 발행하는 프로토콜입니다.
+AMA(Authorized Mint Access) : AMA는 USDC를 예치하고 자동적으로 동일한 수량의 WEMIX$를 발행하는 프로토콜입니다.
 {% endhint %}
