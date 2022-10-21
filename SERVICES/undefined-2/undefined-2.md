@@ -10,7 +10,7 @@
 | Klaytn   | 8217     | KLAY     | [https://scope.klaytn.com](https://scope.klaytn.com) | [https://public-node-api.klaytnapi.com/v1/cypress](https://public-node-api.klaytnapi.com/v1/cypress) |
 | WEMIX3.0 | 1111     | WEMIX    | https://microscope.wemix.com                         | https://api.wemix.com                                                                                |
 
-## WEMIX.Fi와 브릿를 통해 이동이 가능한 토큰
+## WEMIX.Fi와 브릿지를 통해 이동이 가능한 토큰
 
 현재 WEMIX.Fi에서 브릿지를 통해 이동 가능한 토큰은 다음과 같습니다. 서로 다른 메인넷에 존재하는 토큰은 각자 다른 컨트랙트로 존재하기 때문에 사용자는 반드시 이를 유의하여야 합니다.
 
