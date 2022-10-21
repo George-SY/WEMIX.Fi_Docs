@@ -15,8 +15,4 @@
 
 ### \[CERTIK 보안감사 결과] WEMIX.Fi 스테이킹 컨트랙트
 
-{% embed url="https://drive.google.com/file/d/1nJH6uWuXb0LHJyu1ovPKAnjr-znpYli9/view?usp=sharing" %}
-
-{% file src="../.gitbook/assets/[Certik Audit Report] WEMIX.Fi Swap and DIOS.pdf" %}
-
-{% file src="../.gitbook/assets/[Certik Audit Report] WEMIX.Fi Staking(GRAND, DIOS).pdf" %}
+{% embed url="https://drive.google.com/file/d/16CVsTNIJI9wFPqNOLmEAT8XgbPQSTTux/view?usp=sharing" %}
