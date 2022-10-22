@@ -46,11 +46,3 @@ WEMIX.Fi는 위믹스3.0 블록체인 기반 디파이(탈중앙화 금융 거�
   * 토큰 추가 완료
 
 </details>
-
-<details>
-
-<summary>4. 기존 PLAY Wallet 사용자라면?</summary>
-
-
-
-</details>
