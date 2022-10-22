@@ -8,13 +8,13 @@ WEMIX$의 가격 유지를 위한 프로토콜인 DIOS(WEMIX Dollar IN and Out S
 
 ### **TIP (Treasury In Protocol) : 생태계 확장에 따른 WEMIX$ 디페깅에 대한 대응**
 
-<figure><img src="../../.gitbook/assets/wemix_dollar_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tip_kr.png" alt=""><figcaption></figcaption></figure>
 
 생태계가 성장함에 따라 WEMIX$의 수요가 증가하게 되면 Master Liquidity Pool인 USDC/WEMIX$ 거래소에서 WEMIX$의 가격이 상승하는 디페깅이 발생합니다. 이 경우, DIOS는 TIP(Tresury -In Protocol)을 실행하게 됩니다. TIP가 실행되면 MINT 컨트렉트가 MLP에서 WEMIX$를 USDC로 교환합니다. 이때 WEMIX$의 가격이 USDC보다 더 높기 때문에 1 WEMIX$로 1 이상의 USDC를 안정화 차익으로 취득합니다. 교환된 모든 USDC는 Treasury로 입금되고 차익분만큼 추가 WEMIX$가 발행되어 DIOS의 Reward Pool로 전송됩니다.
 
 ### TOP(Treasury Out Protocol) : 생태계 축소에 따른 WEMIX$ 디페깅에 대한 대응
 
-<figure><img src="../../.gitbook/assets/wemix_dollar_2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/top_kr.png" alt=""><figcaption></figcaption></figure>
 
 생태계가 어떤 이유로 축소되어 WEMIX$의 수요가 줄어들거나 심지어 악의적인 공격을 받으면, Master Liquidity Pool인 USDC/WEMIX$ 거래소에서 WEMIX$의 가격이 하락하는 디페깅이 발생합니다. 이 경우 DIOS는 TOP(Tresury-Out Protocol)을 실행하게 됩니다. TOP가 실행되면 Treasury에서 USDC를 출금한 후 MLP에서 USDC를 WEMIX$로 Swap합니다. 이때 WEMIX$의 가격이 USDC보다 더 낮기 때문에 1 USDC로 1 이상의 WEMIX$를 취득합니다. 1 USDC에 상응하는 1 WEMIX$는 MINT로 전송되어 소각되며 남은 WEMIX$는 안정화 차익으로 DIOS의 Reward Pool로 전송됩니다. WEMIX$의 총 공급량과 Treasury에 있는 USDC의 총 수량은 어떤한 경우에도 동일하게 유지됩니다.
 
