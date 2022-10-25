@@ -23,6 +23,16 @@ WEMIX.Fi의 브릿지 서비스는 2022년 4분기에 공개될 예정입니다.
 
 </details>
 
+<details>
+
+<summary>2. 기존 PLAY Wallet을 사용하고 계시다면?</summary>
+
+* PLAY Wallet에 로그인하고 자산 목록 확인하기
+* PLAY Wallet에 보유한 WEMIX Classic 메타마스크로 보내기
+* 전송내역 확인하기
+
+</details>
+
 ## 기존 PLAY Wallet을 사용하고 계시다면?
 
 기존 PLAY Wallet에 보유하고 있는 WEMIX Classic 또한 Multichain을 통해 위믹스 메인넷으로 옮길 수 있습니다. 위의 Multichain 가이드에 따라 클레이튼 메인넷에서 위믹스 메인넷으로 이동할 수 있으나, 그 전에 PLAY Wallet에 있는 자산을 메타마스크로 옮겨야 합니다. 메타마스크 계정이 없을 경우 metamask.io을 통해 생성이 가능합니다.

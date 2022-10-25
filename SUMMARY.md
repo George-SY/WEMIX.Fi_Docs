@@ -49,6 +49,7 @@
 * [대출 이용가이드](guides/borrow.md)
 * [브릿지 이용가이드](guides/bridge/README.md)
   * [Multichain 이용하기](guides/bridge/how-to-use-multichain.md)
+  * [기존 PLAY Wallet을 사용하고 계시다면?](Guides/bridge/play-wallet.md)
 
 ## 커뮤니티 & 패밀리사이트 <a href="#community-and-family-sites" id="community-and-family-sites"></a>
 
