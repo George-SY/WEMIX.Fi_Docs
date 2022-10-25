@@ -33,5 +33,5 @@ DIOS Reward Pool : DIOS Reward Pool이란 DIOS로 발생한 차익을 WEMIX$로 
 이후 MLP 접근 권한이 있는 DIOS의 TIP & TOP가 실행되어 MLP의 교환비가 1:1 로 회귀되도록 가격 안정화를 위한 차익거래를 진행합니다. 이때 발생하는 차익은 DIOS의 Stability Pool로 전송되며, 교환비가 정상화된 후 외부 참여자들은 MLP에 다시 접근이 가능합니다.
 
 {% hint style="info" %}
-Stability Pool : Stability Pool은 블록케이드 발동 시, DIOS의 TIP & TOP 실행으로 발생하는 차익을 보관한 컨트렉트입니다.
+Stability Pool : Stability Pool은 블록케이드 발동 시, DIOS의 TIP & TOP 실행으로 발생하는 차익을 보관하는 컨트랙트입니다.
 {% endhint %}
