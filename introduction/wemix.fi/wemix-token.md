@@ -23,4 +23,4 @@ WEMIX 토큰에 대한 정보는 코인마켓캡 혹은 위믹스 블록 탐색�
 
 {% embed url="https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/wemix-token" %}
 
-{% embed url="https://microscope.test.wemix.com" %}
+{% embed url="https://explorer.wemix.com/" %}
