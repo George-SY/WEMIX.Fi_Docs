@@ -23,7 +23,7 @@ WEMIX$의 가격 유지를 위한 프로토콜인 DIOS(WEMIX Dollar IN and Out S
 TIP & TOP의 경우 MLP의 교환비가 특정 % 이상 차이가 나게 되면 스마트컨트랙에 의해 자동으로 작동되며 풀의 교환비가 1에 근접하면 정지합니다. TIP & TOP는 거래 수수료와 슬리피지를 고려해서 손실이 나지 않는 선에서 진행됩니다. 외부 참여자의 프론트러닝을 방지하기 위해 세부 변수값은 공개되지 않습니다. 특정 변수값들은 시장 상황에 따라 변동될 수 있습니다.
 
 {% hint style="info" %}
-DIOS Reward Pool : DIOS Reward Pool이란 DIOS로 발생한 차익을 WEMIX$로 보관한 컨트렉트입니다. Staking 상품중 하나인 DIOS Staking에 Stake한 예치자들에게 리워드로 분배됩니다.
+DIOS Reward Pool : DIOS Reward Pool이란 DIOS로 발생한 차익을 WEMIX$로 보관한 컨트랙트입니다. Staking 상품중 하나인 DIOS Staking에 Stake한 예치자들에게 리워드로 분배됩니다.
 {% endhint %}
 
 ## **블록케이드**
