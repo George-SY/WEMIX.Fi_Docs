@@ -14,7 +14,7 @@
 
 <figure><img src="../../.gitbook/assets/guide_stake_3.png" alt=""><figcaption></figcaption></figure>
 
-* 그랜드 스테이킹에 예치할 자산을 입력하 예상 지급 리워드를 확인할 수 있습니다.
+* 그랜드 스테이킹에 예치할 자산을 입력하고 예상 지급 리워드를 확인할 수 있습니다.
 
 ## 예치할 수량 선택하기
 
