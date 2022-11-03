@@ -17,9 +17,9 @@
 | # | Name                       | Token Address                              | Chain    |
 | - | -------------------------- | ------------------------------------------ | -------- |
 | 1 | USDC                       | 0x7EA2be2df7BA6E54B1A9C70676f668455E329d29 | Ethereum |
-| 2 | WEMIX Classic              | 0x2c69095d81305F1e3c6ed372336D407231624CEa | Ethereum |
+| 2 | WEMIX                      | 0x2c69095d81305F1e3c6ed372336D407231624CEa | Ethereum |
 | 3 | WEMIX Classic              | 0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c | Klaytn   |
 | 4 | <p>Wrapped</p><p>WEMIX</p> | 0x7D72b22a74A216Af4a002a1095C8C707d6eC1C5f | WEMIX3.0 |
-| 5 | WEMIX$                     | 0xC7A1a3A057A4618f14d35C260ab9a10f2A61bf8b | WEMIX3.0 |
+| 5 | WEMIX$                     | 0x8E81fCc2d4A3bAa0eE9044E0D7E36F59C9BbA9c1 | WEMIX3.0 |
 | 6 | USDC                       | 0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D | WEMIX3.0 |
 | 7 | KLAY                       | 0x461d52769884ca6235B685EF2040F47d30C94EB5 | WEMIX3.0 |
