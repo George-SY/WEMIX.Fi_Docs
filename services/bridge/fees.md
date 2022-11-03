@@ -49,4 +49,4 @@ WEMIX.Fi의 브릿지 이용 수수료는 Multichain의 수수료 정책을 따�
 | ---- | --------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | 이더리움 | 0.003647417870370370 ETH    | [https://etherscan.io/gastracker](https://etherscan.io/gastracker)                                               |
 | 클레이튼 | 0.00038354894337000293 KLAY | [https://docs.klaytn.com/klaytn/design/transaction-fees](https://docs.klaytn.com/klaytn/design/transaction-fees) |
-| 위믹스  | 0.0000001 WEMIX(=100GWEI)   | https://explorer.wemix.com                                                                                       |
+| 위믹스  | 0.0000001 WEMIX(=100GWEI)   | [https://explorer.wemix.com](https://explorer.wemix.com)                                                         |

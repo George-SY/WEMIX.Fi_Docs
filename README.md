@@ -20,4 +20,4 @@ WEMIX.Fi는 위믹스에 특화된 WEMIX3.0 지갑과 메타마스크를 지원�
 
 ## WEMIX.Fi 구조도
 
-<figure><img src=".gitbook/assets/WEMIXFI 전체플로우.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/photo_2022-11-03 10.49.40.jpeg" alt=""><figcaption></figcaption></figure>
