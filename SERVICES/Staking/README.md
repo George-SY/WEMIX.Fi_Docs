@@ -1,6 +1,6 @@
 # 스테이킹
 
-<figure><img src="../../.gitbook/assets/staking.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screencapture-wemix-fi-ko-staking-2022-11-24-17_04_22.png" alt=""><figcaption></figcaption></figure>
 
 WEMIX.Fi에서 운영되는 다양한 스테이킹 프로그램에 자산을 예치하고 안정된 수익을 얻을 수 있습니다. 스테이킹을 통해 다양한 리워드를 획득 해보세요.
 
