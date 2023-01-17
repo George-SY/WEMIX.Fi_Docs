@@ -24,7 +24,7 @@
 * [풀](SERVICES/Pool/README.md)
   * [동작원리](services/pool/how-it-works.md)
   * [이용 수수료](services/pool/fees.md)
-* [대출](services/borrow.md)
+* [Lend & Borrow](services/borrow.md)
 * [브릿지](services/bridge/README.md)
   * [동작원리](services/bridge/how-it-works.md)
   * [이용 수수료](services/bridge/fees.md)
