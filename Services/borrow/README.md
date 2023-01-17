@@ -1,6 +1,6 @@
 # Lend & Borrow
 
-<figure><img src="../.gitbook/assets/borrow.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/borrow.png" alt=""><figcaption></figcaption></figure>
 
 가지고 있는 코인을 안전하게 예치하고 수익을 얻거나, 필요에 따라 WEMIX와 WEMIX$를 대출할 수 있습니다.
 
