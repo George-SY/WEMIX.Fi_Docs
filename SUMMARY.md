@@ -27,6 +27,7 @@
 * [Lend & Borrow](Services/borrow/README.md)
   * [동작원리](Services/borrow/undefined.md)
   * [이용 수수료](Services/borrow/undefined-1.md)
+  * [이자율 메커니즘](Services/borrow/undefined-2.md)
 * [브릿지](services/bridge/README.md)
   * [동작원리](services/bridge/how-it-works.md)
   * [이용 수수료](services/bridge/fees.md)
