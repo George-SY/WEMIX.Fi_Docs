@@ -33,7 +33,7 @@
   * [이용 수수료](services/bridge/fees.md)
   * [컨트랙트](services/bridge/contracts.md)
 
-## 이용가이드 <a href="#Guides" id="Guides"></a>
+## 이용가이드 <a href="#guides" id="guides"></a>
 
 * [WEMIX.Fi 준비하기](guides/getting-started/README.md)
   * [지갑 생성하기](guides/getting-started/how-to-create-wallet.md)
@@ -49,10 +49,15 @@
   * [풀 예치하기](guides/pool/how-to-deposit.md)
   * [풀 출금하기](guides/pool/how-to-withdraw.md)
   * [풀 관리하기](guides/pool/how-to-manage-pool.md)
-* [대출 이용가이드](guides/borrow.md)
+* [Lend & Borrow 이용가이드](guides/lend-and-borrow/README.md)
+  * [Lend 사용하기](guides/lend-and-borrow/how-to-lend.md)
+  * [자산 출금하기](guides/lend-and-borrow/how-to-withdraw.md)
+  * [Borrow 사용하기](guides/lend-and-borrow/how-to-borrow.md)
+  * [대출 상환하기](guides/lend-and-borrow/how-to-repay.md)
+  * [내 자산 관리하기](guides/lend-and-borrow/how-to-manage-assets.md)
 * [브릿지 이용가이드](guides/bridge/README.md)
   * [Multichain 이용하기](guides/bridge/how-to-use-multichain.md)
-  * [기존 PLAY Wallet을 사용하고 계시다면?](Guides/bridge/play-wallet.md)
+  * [기존 PLAY Wallet을 사용하고 계시다면?](guides/bridge/play-wallet.md)
 
 ## 커뮤니티 & 패밀리사이트 <a href="#community-and-family-sites" id="community-and-family-sites"></a>
 
