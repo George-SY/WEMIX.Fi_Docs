@@ -61,7 +61,7 @@ WEMIX.Fi의 Lend\&Borrow는 사용자가 보유한 자산을 예치하고 수익
 
 <summary>4. 자산 관리하기</summary>
 
-
+* 나의 예치 및 대출 자산 관리하기
 
 </details>
 

@@ -1,2 +1,11 @@
-# Borrow 사용하기
+# 자산 관리하기
 
+## 나의 예치 및 대출 자산 관리하기
+
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
+* 상단의 'Portfolio' 메뉴를 통해 사용자의 자산을 관리할 수 있습니다. 사용자의 총 예치액과 총 대출액을 확인할 수 있으며, 수익률과 대출 가능 금액 또한 확인할 수 있습니다.
+
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
+* Status Monitor를 통해 사용자의 재정 상태를 한 눈에 확인할 수 있습니다.
