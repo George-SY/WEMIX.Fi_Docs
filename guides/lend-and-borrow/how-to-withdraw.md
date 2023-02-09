@@ -57,7 +57,7 @@
 
 ### Manage Borrowing 선택하기
 
-<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 * 서비스에서 Borrow를 선택합니다. 사용자가 자산을 대출하면 ‘Borrow’ 메뉴 상단에 ‘대출중’ 알림이 활성화되며, ‘Manage Borrowing’ 버튼을 통해 상환 화면으로 이동할 수 있습니다.
 
