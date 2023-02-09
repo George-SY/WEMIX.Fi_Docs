@@ -22,7 +22,20 @@ WEMIX.Fi의 Lend\&Borrow는 사용자가 보유한 자산을 예치하고 수익
 
 <summary>2. 예치 및 출금하기</summary>
 
+* Lend: 자산 예치하기
+  * WEMIX.Fi Lend & Borrow 접속하기
+  * Lend 선택하기
+  * 예치할 자산 및 수량 선택하기
+  * 예상 리워드 확인하기
+  * 예치 내역 확인 및 승인하기
 
+<!---->
+
+* Lend: 자산 출금하기
+  * Manage Lending 선택하기
+  * 출금할 자산 및 수량 선택하기
+  * 변동사항 확인하기
+  * 출금 내역 확인 및 승인하기
 
 </details>
 
@@ -41,3 +54,15 @@ WEMIX.Fi의 Lend\&Borrow는 사용자가 보유한 자산을 예치하고 수익
 
 
 </details>
+
+* Lend: 자산 예치하기
+  * WEMIX.Fi Lend & Borrow 접속하기
+  * Lend 선택하기
+  * 예치할 자산 및 수량 선택하기
+  * 예상 리워드 확인하기
+  * 예치 내역 확인 및 승인하기
+* Lend: 자산 출금하기
+  * Manage Lending 선택하기
+  * 출금할 자산 및 수량 선택하기
+  * 변동사항 확인하기
+  * 출금 내역 확인 및 승인하기
