@@ -62,7 +62,7 @@
 * 서비스에서 Lend를 선택합니다. 사용자가 자산을 예치하면 ‘Lend’ 메뉴 상단에 ‘예치중’ 알림이 활성화되며, ‘Manage Lending’ 버튼을 통해 출금 화면으로 이동할 수 있습니다.
 * 사용자가 서비스에 예치한 자산이 있을 경우, Borrow 버튼이 활성화 됩니다.
 
-### 출금할 수량 선택하기
+### 출금할 자산 및 수량 선택하기
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
