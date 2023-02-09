@@ -8,4 +8,4 @@
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-* Status Monitor를 통해 사용자의 재정 상태를 한 눈에 확인할 수 있습니다.
+* Status Monitor를 통해 사용자의 재정 상태를 한 눈에 확인할 수 있으며, 상단의 버튼을 클릭하여 손쉽게 추가 예치, 출금, 대출, 그리고 상환 메뉴로 이동할 수 있습니다.
