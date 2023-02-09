@@ -14,7 +14,9 @@ WEMIX.Fi의 Lend\&Borrow는 사용자가 보유한 자산을 예치하고 수익
 
 <summary>1. 지갑 연결하기</summary>
 
+[how-to-create-wallet.md](../getting-started/how-to-create-wallet.md "mention")
 
+[how-to-connect-wallet.md](../getting-started/how-to-connect-wallet.md "mention")
 
 </details>
 
