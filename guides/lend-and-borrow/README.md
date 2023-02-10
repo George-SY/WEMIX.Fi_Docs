@@ -52,10 +52,10 @@ WEMIX.Fi의 Lend\&Borrow는 사용자가 보유한 자산을 예치하고 수익
   * 예상 수수료 확인하기
   * 대출 내역 확인 및 승인하기
 * Borrow: 자산 상환하기
-  * Manage Borrow 선택하기
+  * Manage Borrowing 선택하기
   * 상환할 자산 및 수량 선택하기
   * 변동사항 확인하기
-  * 출금 내역 확인 및 승인하기
+  * 상환 내역 확인 및 승인하기
 
 </details>
 
