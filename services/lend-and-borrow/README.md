@@ -2,7 +2,7 @@
 
 <figure><img src="../../.gitbook/assets/borrow.png" alt=""><figcaption></figcaption></figure>
 
-가지고 있는 코인을 예치하고 수익을 얻거나, 필요에 따라 WEMIX와 WEMIX$를 대출할 수 있습니다.
+가지고 있는 코인을 예치하고 수익을 얻거나, 필요에 따라 WEMIX, WEMIX$, 그리고 stWEMIX를 대출할 수 있습니다.
 
 * Status Monitor로 안전하게 담보를 관리할 수 있습니다.
 * 담보가 청산되지 않도록 알림이 제공됩니다.
